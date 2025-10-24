@@ -1,5 +1,5 @@
 # DSG
-![](images/frame.jpg）
+![](./images/frame.jpg）
 # Dual-stage face generation for heterogeneous face recognition
 
 ## Model Download
