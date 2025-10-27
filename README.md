@@ -6,7 +6,7 @@
 - [SimSwap](https://github.com/neuralchen/SimSwap)
   then unzip and put it to the folder ./pretrained_model/simswap.
 
-  2.Download ArcFace model from the above website. Then put it to the folder ./pretrained_model.
+2.Download ArcFace model from the above website. Then put it to the folder ./pretrained_model.
 3.Download pretrained model:
 - [Semi-HFR](https://github.com/xiyin11/Semi-HFR)
   and put it to the folder ./pretrained_model.
