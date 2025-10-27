@@ -14,7 +14,7 @@
 
 4.Download Tufts face dataset and unzip it. Then, put the visible face images to the folder ./tufts_dataset/vis and thermal face images to ./tufts_dataset/inf.
 
-5.Download CelebA dataset and unzip it. Then, put all images to the folder ./celebA_dataset/data.
+5.Download CelebA dataset and unzip it. Then, put all images to the folder ./celebA_dataset/data. It's better to use MTCNN to crop face.
 
 ## Train
 Before training or generation, please verify the correctness of all file paths referenced within the program.
